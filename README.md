@@ -93,17 +93,12 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
-
-This project is for educational purposes.
-
----
-
 ## 📚 Submodules
 
 - [backend/README.md](backend/README.md)
 - [AI/lstm-seq2seq-chatbot/README.md](AI/lstm-seq2seq-chatbot/README.md)
 - [AI/search-by-image/README.md](AI/search-by-image/README.md)
+- [flutter/README.md](flutter/README.md)
 
 ---
 
