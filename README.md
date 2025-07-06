@@ -84,13 +84,6 @@ cd AI/search-by-image
 pip install -r requirements.txt
 python main.py
 ```
-
-- Web UI: [http://localhost:8000/search](http://localhost:8000/search)
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
 ---
 
 ## 📚 Submodules
