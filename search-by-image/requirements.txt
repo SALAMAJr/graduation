@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+faiss-cpu
+torch
+torchvision
+torchaudio
+pillow
+pandas
+python-multipart
+numpy
